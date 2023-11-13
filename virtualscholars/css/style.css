@@ -1,0 +1,607 @@
+
+.about-width{
+    width: 99%;
+}
+
+#navb{
+    padding-right: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 0.8rem;
+    color: rgb(108, 106, 106);
+}
+
+.nav-link:hover{
+    color: #fd8549;
+}
+
+.active-home{
+    color: #fd8549;
+}
+
+#nav-color{
+    color: rgb(108, 106, 106);
+}
+
+#nav-color:hover{
+    color: #fd8549;
+}
+
+#navba{
+    margin-left: 50px;
+}
+
+#btn-button{
+    margin-left: 170px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 0.8rem;
+    background-color: white;
+    height: 35px;
+    width: 100px;
+    color: rgb(108, 106, 106);
+}
+
+#btn-button:hover{
+    background-color: #fd8549;
+}
+
+#p-m{
+    padding-left: 100px;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+
+
+
+
+
+#image1{
+    border-radius: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+header{
+    background-color: #f6fdfe;
+    background-image: url(/images/day-care-hero-blobs-background.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.background-colour{
+    background-color: #f6fdfe;
+}
+
+#hero-section{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.welcome-text{
+    font-size: 0.9rem;
+    color: rgb(108, 106, 106);
+}
+#welcome-text2{
+    font-size: 2.5rem;
+    color: #fd8549;
+}
+#welcome-text3{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+}
+
+#enroll-button{
+    border-radius: 30px;
+    background-color: rgb(108, 106, 106);
+    color: white;
+}
+
+#enroll-button:hover{
+    background-color: #fd8549;
+}
+
+#enroll-button2{
+    border-radius: 30px;
+    background-color: white;
+    color: rgb(108, 106, 106);
+    border: 1px solid rgb(108, 106, 106);
+}
+#enroll-button2:hover{
+    background-color: #fd8549;
+}
+
+
+.welcome-texti{
+    font-size: 1.5rem;
+    color: rgb(108, 106, 106);
+
+}
+#welcome-text2i{
+    font-size: 2rem;
+    color: #fd8549;
+    padding-bottom: 40px;
+}
+#welcome-text3i{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+}
+
+#hero2-padding{
+    padding-left: 100px;
+}
+
+#what-offeri{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.what-offer2{
+
+}
+
+#what-offer{
+    padding: 6px 10px;
+
+   margin-top: 10px;
+}
+
+.line{
+  display: flex;
+  border: 1px solid rgb(108, 106, 106);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.line1{
+   border: 1px solid rgb(108, 106, 106);
+}
+
+.welcome-texti1{
+    text-align: center;
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+}
+
+
+
+.welcome-textii1{
+    font-size: 1rem;
+    font-weight: 600;
+    color: rgb(108, 106, 106);
+    text-align: left;
+}
+
+#welcome-text2i1{
+    font-size: 1rem;
+    color: #fd8549;
+    text-align: left;
+}
+#welcome-text3i1{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: left;
+}
+
+.bottom-writeup{
+    text-align: center;
+}
+
+#bottom-writeup1{
+    font-size: 1rem;
+  padding-top: 40px;
+  color: rgb(108, 106, 106);
+}
+
+#bottom-writeup2{
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    background-color: rgb(108, 106, 106);
+    height: 40px;
+    width: 170px;
+    color: white;
+}
+
+#bottom-writeup2:hover{
+    background-color: #fd8549;
+}
+
+
+
+#team-cont{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#team-cont1{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+#image2{
+
+    margin-bottom: 10px;
+    height: 350px;
+  width: 280px;
+  border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+.section-text3i{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(108, 106, 106);
+    padding-top: 20px;
+}
+
+#section-text33ii{
+    font-size: 3rem;
+    color: #fd8549;
+    font-weight: 600;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#section-text3ii{
+    font-size: 1rem;
+}
+
+#section-text3iii{
+    font-size: 1rem;
+    text-align: left;
+    font-weight: 650;
+
+}
+
+#section-text3iv{
+    font-size: 0.8rem;
+    text-align: left;
+
+}
+
+.underline{
+    width: 80%;
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+#what-offeri4{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+   padding-bottom: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.welcome-texti4{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(108, 106, 106);
+    padding-bottom: 40px;
+    position: relative;
+}
+
+
+#what-offer4{
+    padding: 8px 25px;
+}
+
+
+
+.line4{
+
+  border: 1px solid rgb(108, 106, 106);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+#welcome-text2i4{
+    font-size: 3rem;
+    color: #fd8549;
+
+
+}
+
+.text4-write{
+   margin-left: 150px;
+}
+
+#welcome-text3i4{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+
+
+}
+
+#section-text4{
+    font-size: 1rem;
+    font-weight: 700;
+    color: rgb(108, 106, 106);
+}
+
+#image4{
+    position: absolute;
+   top: 2937px;
+   right: 800px;
+   border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#section5{
+    margin-top: 50px;
+    background-image: url(/images/priority.webp);
+    height: 380px;
+    width: 100%;
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#section5-top1{
+font-size: 3rem;
+color: white;
+padding-top: 50px;
+font-weight: 800;
+}
+
+#section5-top2{
+    font-size: 1rem;
+    color: white;
+    padding-top: 20px;
+}
+
+#bottom-writeup5{
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    background-color: #fd8549;
+    height: 50px;
+    width: 170px;
+    color: white;
+}
+
+#bottom-writeup5:hover{
+    background-color: white;
+    color: black;
+}
+
+.cont6{
+    margin-left: 100px;
+    padding-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.cont6-texti{
+font-size: 1rem;
+color: rgb(108, 106, 106);
+}
+
+.cont6 h5{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+
+.cont6 ul li a{
+    color: #fd8549;
+    font-size: 1rem;
+}
+
+.cont6 p{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+}
+
+.copyright{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: center;
+}
+
+
+/* css for about page */
+.header2{
+    background-color: #f6fdfe;
+    background-image: url(/images/day-care-page-header-blobs.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.about-text1i{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: left;
+    padding-left: 200px;
+}
+
+#about-text1ii{
+    font-size: 2.5rem;
+    color: #fd8549;
+    text-align: left;
+    padding-left: 200px;
+}
+
+.about-text1iii{
+font-size: 1.5rem;
+font-weight: 700;
+}
+
+#about-text1iv{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+}
+
+
+.about-section1{
+    background-color: #f6fdfe;
+   margin-left: 100px;
+   margin-right: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#about-text2i{
+    font-size: 2.5rem;
+    color: #fd8549;
+    padding-top: 20px;
+    text-align: left;
+}
+
+#about-text2ii{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: left;
+}
+
+#about-image2{
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+#about-text2iii{
+    font-size: 3rem;
+    color: #fd8549;
+ text-align: left;
+
+}
+
+
+#about-text2iv{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+   text-align: left;
+
+}
+
+#about-text2v{
+    font-size: 1rem;
+    font-weight: 700;
+    color: rgb(108, 106, 106);
+    text-align: left;
+}
+
+.about-background{
+    background-color: #f6fdfe;
+}
+
+.grid-shift{
+    padding-left: 50px;
+}
+
+
+.about-section2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box-section2{
+    display: flex;
+    padding: 0px 5px;
+    gap: 10px;
+    margin-left: 220px;
+    margin-top: 100px;
+
+}
+
+.boxes{
+    padding: 5px 0px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ border: 1px solid rgb(108, 106, 106);
+}
+
+.about-section2 .icon{
+    font-size: 1.5rem;
+    color: #fd8549;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#about-text3i{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: left;
+    padding-left: 30px;
+    font-weight: 900;
+}
+
+#about-text3ii{
+    font-size: 0.7rem;
+    color: rgb(108, 106, 106);
+    text-align: left;
+    padding-left: 30px;
+}
+
+.vision-mission{
+    display: flex;
+    gap: 150px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.vision-mission h1{
+padding-left: 250px;
+font-size: 0.9rem;
+color: rgb(108, 106, 106);
+}
+
+.vision-mission p{
+font-size: 1.5rem;
+    color: rgb(108, 106, 106);
+
+}
+
+.copyright1{
+    font-size: 1rem;
+    color: rgb(108, 106, 106);
+    text-align: center;
+}
+
+
+/* css for our services page */
+#hero-section1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.service-text1i{
+font-size: 1rem;
+color: rgb(108, 106, 106);
+padding-left: 200px;
+}
+
+#service-text1ii{
+    font-size: 1.5rem;
+    color: #fd8549;
+    padding-left: 200px;
+}
+
+.boxes1{
+    display: flex;
+}
